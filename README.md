@@ -10,7 +10,7 @@
 
 ---
 
-![projeto-img](https://user-images.githubusercontent.com/73853747/177866539-5421d10c-6ed4-4201-a332-0ad695bd901b.png)
+![Animação](https://user-images.githubusercontent.com/73853747/177866716-00b86348-4ce9-4374-8f5d-62f3a952e0d8.gif)
 
 ### Informações Gerais
 
