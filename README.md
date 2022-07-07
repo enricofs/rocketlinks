@@ -10,6 +10,8 @@
 
 ---
 
+![projeto-img](https://user-images.githubusercontent.com/73853747/177866539-5421d10c-6ed4-4201-a332-0ad695bd901b.png)
+
 ### Informações Gerais
 
 ### Projeto online
