@@ -21,23 +21,30 @@ html {
   --primary-dark-pink: #a61e4d;
 }
 
-body.dark-blue {
+body.dark-blue,
+svg.icon-dark-blue path {
   --bg-color: #00082f;
   --text-color: #fff;
 }
 
-body.pink {
+body.pink,
+svg.icon-pink path {
   --bg-color: #fff0f6;
   --text-color: #1f000b;
   --primary-color: #d6336c;
   --primary-color-dark: #a61e4d;
 }
 
-body.dark-pink {
+body.dark-pink,
+svg.icon-dark-pink path {
   --bg-color: #1f000b;
   --text-color: #fff0f6;
   --primary-color: #d6336c;
   --primary-color-dark: #a61e4d;
+}
+
+svg.icon path {
+  stroke: var(--bg-color);
 }
 
 body {
@@ -129,6 +136,7 @@ ul li a {
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 10px;
   background: var(--primary-color);
   color: white;
   text-transform: uppercase;
